@@ -1,0 +1,36 @@
+.progress1{
+    height:3rem;
+    width: 3rem;
+    background-color:#764AF1 ;
+    border-radius: 50%;
+    color:white;
+    text-align: center;
+    font-weight: 700;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.not-in-progress{
+    height:3rem;
+    width: 3rem;
+    /* background-color:#764AF1 ; */
+    border: 2px solid rgba(0, 0, 0, .1);
+    border-radius: 50%;
+    font-weight:700;
+    color: rgba(0, 0, 0, .5);
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.line{
+    border-bottom: 2px solid #764AF1;
+    width:2.5rem
+}
+.line2{
+    border-bottom:2px solid rgba(0, 0, 0, .1);
+    width:2.5rem
+
+}

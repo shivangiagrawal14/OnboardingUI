@@ -1,0 +1,11 @@
+.mainHeading{
+    font-family: Inter;
+    text-align: center;
+    opacity: 0.9;
+}
+.subHeading{
+    font-family: Inter;
+    opacity: 0.6;
+    margin-top: 0rem;
+    text-align: center;
+}

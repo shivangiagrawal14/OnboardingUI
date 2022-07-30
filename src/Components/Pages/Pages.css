@@ -1,0 +1,70 @@
+.pages{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 15vh;
+}
+
+.firstInputBox{
+    margin-top: 10vh;
+}
+.urlSample{
+    background-color: #F6F6F6;
+    padding: 1rem;
+    border-radius: "0.3rem" !important;
+}
+.urlSample:hover{
+    cursor: no-drop;
+}
+.url{
+    padding: 1rem;
+    border-radius: "0.3rem";
+    border: 1px solid rgba(0, 0, 0, .1); 
+}
+.label{
+    display: flex;
+    justify-content: flex-start;
+    align-items: left;
+    font-family: Inter;
+    padding: 0.3rem;
+    font-size: 1.2rem;
+}
+#optional{
+    color:rgba(0, 0, 0, .4)
+}
+.inputs1{
+    margin-top: 5vh;
+    width: 30%;
+}
+.inputBox2{
+    font-family: Inter;
+    width:30%;
+    padding: 1rem;
+    border-radius: 0.3rem; 
+    color:rgba(0, 0, 0, .4)
+}
+.inputBox3{
+    width: 70%;
+    padding: 1rem;
+}
+.selectedCard{
+    border:2px solid #764AF1;
+    margin:10%;
+    border-radius: 0.3rem;
+}
+.tick{
+    margin-top: 5vh;
+
+}
+.progress{
+    text-align: center;
+    width: 40%;
+    margin-top: 3vh;
+   
+}
+.cardOutside{
+    border: 1px solid rgba(0, 0, 0, .1);
+    margin:10%;
+    border-radius: 0.3rem;
+}

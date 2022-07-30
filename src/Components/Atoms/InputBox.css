@@ -1,0 +1,19 @@
+.label{
+    display: flex;
+    justify-content: flex-start;
+    align-items: left;
+    font-family: Inter;
+    padding: 0.3rem;
+    font-size: 1.2rem;
+}
+.inputBox{
+    font-family: Inter;
+    width:90%;
+    padding: 1rem;
+    border-radius: 0.3rem; 
+    border: 1px solid rgba(0, 0, 0, .1); ;
+}
+.inputs{
+    margin-top: 5vh;
+    width: 30%;
+}

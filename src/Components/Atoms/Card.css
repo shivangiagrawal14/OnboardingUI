@@ -1,0 +1,19 @@
+.card{
+    width: 10rem;
+    padding: 1rem;
+    margin-top: 5vh;
+   
+    margin: 0 5%;
+    font-family: Inter;
+    
+}
+.header{
+    margin-top: 0px!important;
+    font-weight: 200;
+}
+.desc{
+    opacity: 0.6;
+}
+.card:hover{
+    cursor: pointer;
+}

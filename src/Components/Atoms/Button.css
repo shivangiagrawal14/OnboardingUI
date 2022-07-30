@@ -1,0 +1,17 @@
+.btn{
+    background-color: #764AF1;
+    padding: 1rem ;
+    color:white;
+    width: 98%;
+    border: none;
+    border-radius: 0.3rem ;
+    text-align: center;
+    font-family: Inter;
+}
+.btnDiv{
+    margin-top: 5vh;
+    width: 30%;
+}
+.btn:hover{
+    cursor: pointer;
+}
